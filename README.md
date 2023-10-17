@@ -19,7 +19,7 @@ If I had to describe this project in three (3) emojis, they would be: **📱🔗
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
+- [x] Display at least three (3) pieces of data for each API entry retrieved (Title of images, Images, and Copyright texts)
 - [x] A working Button requests a new API entry and updates the data displayed
 
 The following STRETCH features are implemented:
